@@ -953,7 +953,7 @@ hero 2
   font-weight: 900;
 }
 .mil-hero-2 .mil-h1:before {
-  content: "UX/UI Designer";
+  content: "Autom/ation";
   position: absolute;
   background: linear-gradient(0deg, #FF8473, #FFE588);
   -webkit-background-clip: text;
